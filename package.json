@@ -1,0 +1,16 @@
+{
+  "name": "e-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d E-Learning"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Hrutujapawar.github.io/elearning_website",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
